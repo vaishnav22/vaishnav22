@@ -33,7 +33,7 @@
 <br />
 <br />
 
-<!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> 
 
 [website]: https://vaishnav-portfolio.herokuapp.com/
 [twitter]: https://twitter.com/vaishna90580819
@@ -41,7 +41,3 @@
 [instagram]: https://www.instagram.com/vaishnav_bharadwaj/
 [linkedin]: https://www.linkedin.com/in/vaishnav-bharadwaj-b2491816a/
 
-<!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt -->
-<!-- [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B -->
-<!-- : https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
