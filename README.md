@@ -41,7 +41,7 @@
 <br />
 <br />
 
-<img align="left" alt="Vaishnav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishnav22&show_icons=true&hide_border=true" /> 
+<img align="left" alt="Vaishnav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishnav22&show_icons=true&hide_border=true&hide=issues&show_icons=true&theme=highcontrast" /> 
 
 [website]: https://vaishnav-portfolio.herokuapp.com/
 [twitter]: https://twitter.com/vaishna90580819
