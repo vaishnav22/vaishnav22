@@ -1,4 +1,4 @@
-### Hi there, I'm Vaishnav - aka [VaishnavBharadwaj][website] 👋
+### Hi there, I'm Vaishnav - aka [Vaishnav Bharadwaj][website] 👋
 
 ## I'm a Developer!
 
