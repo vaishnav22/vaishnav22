@@ -35,6 +35,9 @@
 
 <img align="left" alt="Vaishnav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishnav22&show_icons=true&hide_border=true&hide=issues&show_icons=true&theme=highcontrast" /> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav22&layout=compact)](https://github.com/vaishnav22/github-readme-stats)
+
+
 [website]: https://vaishnav-portfolio.herokuapp.com/
 [twitter]: https://twitter.com/vaishna90580819
 [youtube]: https://www.youtube.com/channel/UCEBnow4CwmOpR48FEZUof2A?view_as=subscriber
