@@ -21,7 +21,7 @@
 
 <img align="left" alt="Vaishnav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishnav22&show_icons=true&hide_border=true&hide=issues&show_icons=true&theme=highcontrast&include_all_commits=true&rank_icon=true" /> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav22&layout=compact)](https://github.com/vaishnav22/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vaishnav22)](https://github.com/vaishnav22/github-readme-stats)
 
