@@ -19,7 +19,7 @@
 
 <br />
 
-<img align="left" alt="Vaishnav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishnav22&show_icons=true&hide_border=true&hide=issues&show_icons=true&theme=highcontrast&include_all_commits=true" /> 
+<img align="left" alt="Vaishnav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishnav22&show_icons=true&hide_border=true&hide=issues&show_icons=true&theme=highcontrast&include_all_commits=true&rank_icon=true" /> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav22&layout=compact)](https://github.com/vaishnav22/github-readme-stats)
 
