@@ -23,7 +23,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vaishnav)](https://github.com/vaishnav22/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vaishnav)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://vaishnav-portfolio.herokuapp.com/
