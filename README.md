@@ -25,4 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnav22&" alt="vaishnav22" /></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnav22" alt="vaishnav22" /></a> </p>
